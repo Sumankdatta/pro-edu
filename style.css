@@ -11,3 +11,15 @@
     text-align: center;
     text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
 }
+
+.text-items {
+    text-align: left;
+}
+
+.categori img {
+    width: 150px;
+}
+
+.button {
+    margin-left: 45%;
+}
